@@ -34,7 +34,6 @@ export class HomeComponent implements OnInit {
   btnText: string = "Add an item";
   goalText: string = "My life goal";
   goals= ['My first life goal', 'I want to climb a mountain', 'Go ice skiing'];
-  ;
 
   constructor() { }
 
